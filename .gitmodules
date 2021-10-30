@@ -1,0 +1,3 @@
+[submodule "themes/restaurant"] 
+  path = themes/restaurant 
+  url = git@github.com:sharadvernekar/restaurant.git
