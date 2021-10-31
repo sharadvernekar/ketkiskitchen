@@ -32,14 +32,6 @@ blog:
   bg_image : "images/blog/blog-bg.jpg"
   overlay : true
 
- 
-################# Recipes ######################
-recipes:
-  enable : true
-  title : "Our Latest <span>Recipes</span>"
-  bg_image : "images/recipes/recipes-bg.jpg"
-  overlay : true
-
 ################# food Menu ################
 pricing:
   enable : true
@@ -66,6 +58,13 @@ pricing:
   - title: "Pancakes n' Such"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
     price : "$ 25.00"
+ 
+################# Recipes ######################
+recipes:
+  enable : true
+  title : "Our Latest <span>Recipes</span>"
+  bg_image : "images/recipes/recipes-bg.jpg"
+  overlay : true
 
 ################### Subscription ################
 subscription:
