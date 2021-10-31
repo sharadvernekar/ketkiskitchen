@@ -32,6 +32,13 @@ blog:
   bg_image : "images/blog/blog-bg.jpg"
   overlay : true
 
+ 
+################# Recipes ######################
+recipes:
+  enable : true
+  title : "Our Latest <span>Recipes</span>"
+  bg_image : "images/recipes/recipes-bg.jpg"
+  overlay : true
 
 ################# food Menu ################
 pricing:
