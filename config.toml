@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = 'https://www.chefketki.com/'
+baseURL = 'https://www.ketkiskitchen.com/'
 languageCode = "en-us"
 title = "Chek Ketki's Site"
 theme = "restaurant"
